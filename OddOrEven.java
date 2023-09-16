@@ -11,7 +11,7 @@ public class OddOrEven {
 		if (num % 2 == 0) 
 		System.out.println("Your number is an even number");
 		else
-			System.out.println("Your number is and odd number");
+		System.out.println("Your number is and odd number");
 	}
 
 }
