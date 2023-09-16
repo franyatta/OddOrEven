@@ -8,10 +8,12 @@ public class OddOrEven {
 		System.out.print("Enter a number: ");
 		int num = input.nextInt();
 		
-		if (num % 2 == 0) 
-		System.out.println("Your number is an even number");
-		else
-		System.out.println("Your number is and odd number");
+		if (num % 2 == 0) {
+		System.out.println("Your number is an even number"); 
+		}
+		else {
+		System.out.println("Your number is and odd number"); 
+		}
 	}
 
 }
